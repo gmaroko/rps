@@ -1,12 +1,11 @@
 #Random Python Scripts
 #(c) 2017 Maroko Gideon
 #www.gmaroko.me
-#mmmjgidy@gmail.com
-
+#marokogideon@gmail.com
 #question by Ayman Nov, 2017
 
-from collections import Counter
 
+from collections import Counter
 def main(filename):
     with open(filename) as file: #with will automatically close the file for you
         words = [word for line in file for word in line.split()] #list of all the words in the file
