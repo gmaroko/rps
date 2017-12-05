@@ -36,3 +36,29 @@ Capturing an image on your windows machine using python and arduino!
 *switch.ino   #Arduino code 
 *Arduino IDE # Download here if you don't have it, its free==> https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-windows.exe (windows) you can find other versions as well!
 ===============================================================================================================================================================
+#RPS004
+call.py
+
+Make a call from python to your phone
+
+*twilio python helper library
+*windows
+*python 3.6.x
+*twilio account # register for free ==>https://www.twilio.com (trial account, you can upgrade if you wish)
+* internet connection
+
+===============================================================================================================================================================
+#RPS005
+sms.py
+
+Let you program send you notification direct to your phone
+
+*twilio python helper library
+*windows
+*python 3.6.x
+*twilio account # register for free ==>https://www.twilio.com (trial account, you can upgrade if you wish) #trial account send a notification with a twilio trial account signature!
+* internet connection
+================================================================================================================================================================
+
+
+
