@@ -1,3 +1,9 @@
+#Random Python Scripts
+#(c) 2017 Maroko Gideon
+#www.gmaroko.me
+#marokogideon@gmail.com
+#Dec 2017
+
 from twilio.rest import Client
 def main():
     account_sid,auth_token = input("Account sid >"), input("Auth. token >")
